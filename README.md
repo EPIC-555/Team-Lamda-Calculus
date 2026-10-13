@@ -1,0 +1,2 @@
+# Team-Lamda-Calculus
+AI SYNERGY HACKATHON 2026
